@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raktease.github.io/raktease-website/sitemap.xml
